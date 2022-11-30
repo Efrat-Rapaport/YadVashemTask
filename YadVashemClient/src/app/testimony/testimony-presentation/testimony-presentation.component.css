@@ -1,0 +1,33 @@
+.my-card{
+    margin-top: 10%;
+    top:2%;
+    left: 2%;
+    height: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+    position: absolute;
+    margin:auto;
+    width:50% ;
+    height: 85%;
+    padding-top: 1%;
+
+    }
+    .my-video{
+        width:60% ;
+        height: 90%;
+    }
+
+    .my-icon{
+        position:absolute; top:0; right:0;
+    }
+    .my-div{
+        width: 100px;
+        height: 100px;
+
+    }
+    .my-second-card{
+        width:60% ;
+        height: 90%;
+        overflow-y: scroll;
+        text-align: right;
+    }
